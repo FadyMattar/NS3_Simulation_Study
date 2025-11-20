@@ -1,10 +1,9 @@
 A project I did in University under the supervision of Dr.Jose Yallouz.
 
 # Project Goal
-Comparing congestion control protocols in Data Centers.
-
+Comparing congestion control protocols in Data Centers.<br>
 researched algorithms like HPCC, TIMELY, DCHCP, etc.<br>
-Focused on TCP vs DCTCP, in bottle-neck and Incast situations.
+Focused on TCP vs DCTCP, in bottle-neck and Incast situations.<br>
 
 # Some of the parameters that we examined;
 - RTT.
@@ -13,6 +12,6 @@ Focused on TCP vs DCTCP, in bottle-neck and Incast situations.
 
 
 # Learnt and improved skills from this project
-NS3.
-Linux environment.
+NS3.<br>
+Linux environment.<br>
 
