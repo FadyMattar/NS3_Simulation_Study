@@ -1,4 +1,4 @@
-A project I did in University under the supervision of Dr.Jose Yallouz.
+A project I did in the Technion under the supervision of Dr.Jose Yallouz.
 
 # Project Goal
 Comparing congestion control protocols in Data Centers.<br>
@@ -11,7 +11,6 @@ Focused on TCP vs DCTCP, in bottle-neck and Incast situations.<br>
 - CWND sizes.
 
 
-# Learnt and improved skills from this project
-NS3.<br>
+# Improved and learnt skills from this project
 Linux environment.<br>
-
+NS3.<br>
