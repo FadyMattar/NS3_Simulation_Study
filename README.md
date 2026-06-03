@@ -6,7 +6,7 @@
 [![Environment](https://img.shields.io/badge/Environment-Linux-orange.svg)]()
 [![Language](https://img.shields.io/badge/Language-C++-00599C.svg)]()
 
-## 🎯 Project Goal
+## Project Goal
 The primary objective of this project is to simulate and compare various **Congestion Control Protocols** within Data Center Network environments. 
 
 We focused heavily on the differences and performance metrics between **TCP** and **DCTCP**, particularly examining their behavior under challenging conditions such as:
@@ -22,8 +22,7 @@ During the simulation tests, we tracked and analyzed several critical network pe
 - **CWND (Congestion Window) Sizes**
 
 ## 📂 Repository Structure
-Since the full source code is kept private, this repository acts as a public showcase.
-- `docs/` - Contains the documentation and the **Book on Simulation Tests**.
+This repository is a public showcase.
 - `simulation-scripts/` - Select snippets of the NS3 setup configurations.
 - `results/` - Graphs and metric outputs from the simulations.
 
